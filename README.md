@@ -14,7 +14,11 @@ It's been a few years since the last [bus on rails retired](https://media.northe
 
 But... what difference would better transport links actually make? Again - the answer tends to be more assumed than interrogated, and where quant answers are provided, their workings are too often hidden inside consultant documents (or in the case of Doncaster Airport part 2, it's both consultants' IP and commercial sensitivity; [see Now Then's writeup](https://nowthenmagazine.com/articles/irresponsible-environmentally-dangerous-economically-unfounded-case-for-reopening-doncaster-sheffield-airport-aviation-oliver-coppard)).
 
-I think it would be good to see if it's possible to make transport goods and bads more legible. There's a tonne of theory, of course. And then there's all that rotational slippage. Are there some little examples we can build to bring those together?
+Let's see if it's possible to link abstract theory to what we actually see, without ending up in spurious-precision land. Just to pick one very abstract example - my PhD dug into Krugman's core/periphery model, and if that model captures a real dynamic (open question) it means improved transport links *may* just empower the larger cities over smaller ones. Trickle-down not so much in those models. Is there any evidence/theory combo that could help us see how transport growth can help the most people, not isolate smaller towns further? 
+
+Then there's all those lovely agglomeration dynamics, and trying to make up plausible numbers for the deeply floaty idea of what value human brains create when you put more of them in close proximity.
+
+So I think it would be good to see if it's possible to make transport goods and bads more legible. As well as all that theory, there's the rotational slippage, and the distant hope of [Norwegian tunnelling](https://www.bbc.co.uk/news/articles/c621m9l1qr1o). Are there some little examples we can build to bring those together?
 
 That's the plan for this project/repo. 
 
@@ -23,5 +27,7 @@ Some quick points on keeping me and the LLM separate:
 - Docs like this are written by me. If I use Claude for research docs, those will be clearly in a different folder. The basic rule of plagiarism still applies: trying to pass off any writing **not** done by me as actually mine = plagiarism. Simple.
 - I will however use Claude to code a whole tonne. Assume the code is a claude / me mishmash.
 - I'll also be keeping a record of Claude back and forths and prompts in llm_convos folder. The 'scripts' folder has python scripts (Claude-written too) that do this job. The resulting markdown scripts are an open record of LLM use.
+
+Acknowledgements: details of rotational slippage and news about possible Norway blast-tunnels came to me via my partner's mum, Sharon.
 
 ![eek the A625](images/A625.png)
