@@ -28,6 +28,6 @@ Some quick points on keeping me and the LLM separate:
 - I will however use Claude to code a whole tonne. Assume the code is a claude / me mishmash.
 - I'll also be keeping a record of Claude back and forths and prompts in llm_convos folder. The 'scripts' folder has python scripts (Claude-written too) that do this job. The resulting markdown scripts are an open record of LLM use.
 
-Acknowledgements: details of rotational slippage and news about possible Norway blast-tunnels came to me via my partner's mum, Sharon.
+*Acknowledgements: details of rotational slippage and news about possible Norway blast-tunnels came to me via my partner's mum, Sharon.*
 
 ![eek the A625](images/A625.png)
