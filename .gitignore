@@ -1,0 +1,26 @@
+# Claude Code
+CLAUDE.local.md
+**/CLAUDE.local.md
+.claude/
+**/.claude/
+.claude.json
+.claude.json.backup
+.mcp.json
+.claudeignore
+AGENTS.md
+**/AGENTS.md
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# NOTE: do NOT add "llm_convos/" here. That folder carries its own
+# .gitignore (written by scripts/publish_convos.py) which denies everything
+# by default and re-includes individual conversations. Ignoring the whole
+# directory here would make those per-file exceptions impossible — git
+# cannot re-include a file inside an excluded directory.
