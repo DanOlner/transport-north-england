@@ -20,6 +20,8 @@ Then there's all those lovely agglomeration dynamics, and trying to make up plau
 
 So I think it would be good to see if it's possible to make transport goods and bads more legible. As well as all that theory, there's the rotational slippage, and the distant hope of [Norwegian tunnelling](https://www.bbc.co.uk/news/articles/c621m9l1qr1o). Are there some little examples we can build to bring those together?
 
+The goal isn't grand - it's not to to replace those expensive proprietary consultant models, for instance. But I think there could be value in making the theory and practice more visible, more intuitive.
+
 That's the plan for this project/repo. 
 
 Some quick points on keeping me and the LLM separate:
